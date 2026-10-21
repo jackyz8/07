@@ -1,0 +1,5 @@
+Not found in the supplied GLORY.zip source archive:
+- CguFF_pb2.py (optional import fallback added; real protocol behavior still requires the original module if that code path is needed)
+- DRIFT/step1_clan.png
+- DRIFT/step2_clan.png
+- DRIFT/favicon.ico

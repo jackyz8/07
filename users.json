@@ -1,0 +1,12 @@
+{
+  "gloryadmin": {
+    "username": "gloryadmin",
+    "display_name": "gloryadmin",
+    "password_hash": "21707ac2f5529490f187f7ed2c33bd10$eac27c3b4a1b54b15013c8ca8b3fd0ca3689d7b4feda3b6d72fc4dd6def18d6a",
+    "role": "admin",
+    "basic_credits": 0,
+    "premium_credits": 0,
+    "created_at": 1792561962.740272,
+    "seeded": true
+  }
+}

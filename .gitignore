@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+accounts.json
+token_cache.json
+devices.json
+users.json
+activation_results.json
+guild_exp_cache.json
+*.log
